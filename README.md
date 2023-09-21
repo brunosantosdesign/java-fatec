@@ -1,6 +1,6 @@
-## Getting Started
+## Atividades de JAVA - FATEC PG
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse repositório contém as atividades de JAVA da disciplina Técnicas de Programação I da Fatec PG, do 2º ciclo do curso de Desenvolvimento de Software Multiplataforma
 
 ## Folder Structure
 
